@@ -1,13 +1,13 @@
 🔴 Boas vindas ao meu perfil 🔴 
 
-   Meu nome é nome sobrenome
+   Meu nome é Vitor Hugo de Lima Serra
 
-Estou estudando na Alura 
+Estou estudando na E.E. Profª Darci Lopes 
 
-Estou me desenvolvendo na linguagem JavaScript
+Eu  estou estudando na Alura e fazendo curso de Inglês na plataforma Wizard, que foi provida pelo governo.
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Vou usar esta plataforma para compartilhar meus projetos
 
-Você pode entrar em contato comigo 📫
-
+Para você entrar em contato comigo
+Mande um email para
 00001127011522SP@al.educacao.sp.gov.br
